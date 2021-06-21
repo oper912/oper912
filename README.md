@@ -1,7 +1,7 @@
 ### Hi there 👋
-Good day! I'm SoonHo Kwon, a Backend developer. 🌱 🇰🇷
+Good day! I'm soonho Kwon, a backend developer. 🌱 🇰🇷
 
-<!--
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Donggggg&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷</p>
@@ -33,8 +33,8 @@ Good day! I'm SoonHo Kwon, a Backend developer. 🌱 🇰🇷
   <br>
   <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=XD&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
-</p>
--->
+</p> -->
+
 
 <!--
 **bbbnam/bbbnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,3 +55,13 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oper912&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+### 🔭 기술스택
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-47A248?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-B45F04?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/DynamoDB-E6B91E?style=flat-square&logo=amazonDynamoDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-FE2E2E?style=flat-square&logo=Redis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Rabbitmq-FF8000?style=flat-square&logo=Rabbitmq&logoColor=white"/></a>
+
