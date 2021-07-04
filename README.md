@@ -1,5 +1,5 @@
 ### Hi there 👋
-Good day! I'm soonho Kwon, a backend developer. 🌱 🇰🇷
+<!--Good day! I'm soonho Kwon, a backend developer. 🌱 🇰🇷-->
 
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Donggggg&fontSize=70&animation=twinkling)
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foper912%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
